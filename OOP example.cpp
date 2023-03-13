@@ -197,7 +197,6 @@ int main()
     Kus nesK2;
 
     nesK2.ad="Logar";
-    nesK2.cinsi="Muhabbet Kuşu";
     nesK2.kanatHizi=20;
     nesK2.setBoy(2);
     nesK2.setKilo(5);
